@@ -2,7 +2,7 @@
 // Created by DariaEmacs (http://www.youtube.com/DariaEmacsHappy)
 // This algorithm was written in AlgoL originally. I rewrote it in C++.
 // The video about this code is https://youtu.be/EgKfZBAJZoE
-
+ 
 #include <vector>
 #include <iomanip>
 #include <iostream>
